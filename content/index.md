@@ -13,4 +13,4 @@ webbprogrammering de kommande 2 åren. Jag har även en son som heter Miller på
 jag har en ny sambo. På fritiden så driver jag ett eget företag och sedan gillar jag att löpa och läsa böcker. Jag jobbar även aktivt
 på att bli bättra på att laga mat, det är däremot inget jag hittar mycket glädje i.
 
-![Red picture](img/red.png)
+![Waterfall](img/waterfall.jpg)

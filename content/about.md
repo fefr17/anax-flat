@@ -1,12 +1,16 @@
-About this site
+Om denna sida
 ==============================================
 
-The primary focus of this site is to:
+Sidan kommer spegla det jag lär mig göra under kurser design. Jag kommer jobba mycket med bilder tack vare ert goda länktips [Unsplash](https://unsplash.com)
 
-* To be used in teaching the [dbwebb course design](http://dbwebb.se/design).
+Låt bilden spegla hur det känns ibland som nybörjare inom programmering.
 
-The source for this site is available on GitHub in [canax/anax-flat](git@github.com:canax/anax-flat.git).
+Mitt GitHub-repo [Felix GitHub](https://github.com/fefr17/anax-flat)
 
-This site is produced by [Mikael Roos](https://mikaelroos.se) (mos@dbwebb.se).
+Används på BTH[dbwebb course design](http://dbwebb.se/design).
 
-Link to my GIT 
+Källan för denna sida hittas i GitHub [canax/anax-flat](git@github.com:canax/anax-flat.git).
+
+Den är gjord av [Mikael Roos](https://mikaelroos.se) (mos@dbwebb.se).
+
+<img src="https://images.unsplash.com/photo-1468070454955-c5b6932bd08d?dpr=1&auto=format&fit=crop&w=1000&q=80&cs=tinysrgb&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D">
