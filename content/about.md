@@ -5,7 +5,9 @@ Sidan kommer spegla det jag lär mig göra under kurser design. Jag kommer jobba
 
 Låt bilden spegla hur det känns ibland som nybörjare inom programmering.
 
-Mitt GitHub-repo [Felix GitHub](https://github.com/fefr17/anax-flat)
+Mitt GitHub-repo [Felix Anax-flat](https://github.com/fefr17/anax-flat)
+
+Mitt GitHub-tema [Felix tema](https://github.com/fefr17/anax-flat-theme)
 
 Används på BTH[dbwebb course design](http://dbwebb.se/design).
 
