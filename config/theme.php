@@ -24,7 +24,7 @@ return [
             // Style and stylesheets
             //"stylesheets" => ["css/style.min.css"],
             "stylesheets" => [
-                    "css/style.min.css",
+                    "css/vgrid.min.css",
                     "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
             //"styleInline" => null,
         ],
@@ -79,6 +79,7 @@ return [
             "data" => [],
             "sort" => 1
         ],
+
         [
             "region" => "footer",
             "template" => "default/columns",

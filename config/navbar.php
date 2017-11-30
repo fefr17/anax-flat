@@ -32,6 +32,18 @@ return [
                 "url"   => $this->di->get("url")->create("markdown"),
                 "title" => t("Markdown")
             ],
+
+            "typography" => [
+                "text"  => t("Typography"),
+                "url"   => $this->di->get("url")->create("typography"),
+                "title" => t("typography")
+            ],
+
+            "vgrid" => [
+                "text"  => t("Vertikalt grid"),
+                "url"   => $this->di->get("url")->create("vgrid"),
+                "title" => t("Vertikalt grid")
+            ],
         ],
     ],
 
@@ -60,6 +72,24 @@ return [
                 "text"  => t("About"),
                 "url"   => $this->di->get("url")->create("about"),
                 "title" => t("About this website")
+            ],
+
+            "markdown" => [
+                "text"  => t("Markdown"),
+                "url"   => $this->di->get("url")->create("markdown"),
+                "title" => t("Markdown")
+            ],
+
+            "typography" => [
+                "text"  => t("Typography"),
+                "url"   => $this->di->get("url")->create("typography"),
+                "title" => t("typography")
+            ],
+
+            "vgrid" => [
+                "text"  => t("Vertikalt grid"),
+                "url"   => $this->di->get("url")->create("vgrid"),
+                "title" => t("Vertikalt grid")
             ],
         ],
     ],

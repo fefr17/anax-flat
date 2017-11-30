@@ -24,9 +24,22 @@ return [
             "class"      => "",
             "stylesheets" => [
                 //"css/default.min.css"
-                "theme/style.min.css"
+                "css/vgrid.min.css"
             ]
         ],
+
+        "vgrid"   => [
+            "title"      => "Vertikalt grid",
+            "class"      => "",
+            "stylesheets" => [
+                    "css/vgrid.min.css",
+                    "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+                ],
+
+                //JavaScript
+                "javascripts" => ["js/responsive-menu.js"],
+
+    ],
 
         "separator1" => "------------------------------------------------",
 
